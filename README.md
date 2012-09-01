@@ -2,6 +2,7 @@ simple-cipher
 =============
 
 Before run the App ,please replace the policy file:
+
 Step 1: Visit the website:http://www.oracle.com/technetwork/java/javase/downloads 
 		to find the download link of
 		"Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy "
